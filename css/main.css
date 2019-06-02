@@ -83,3 +83,8 @@ img{
     margin-right: auto;
     padding-bottom: 75px;
 }
+
+#plasticImage{
+    width:50%;
+    height:auto;
+}

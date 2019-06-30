@@ -1,5 +1,5 @@
 body{
-    background-color:white;
+    background-color:rgb(31, 31, 31);
     /*original white
     night gray
     */
@@ -13,12 +13,12 @@ nav{
     margin:0px;
     padding:10px;
     text-align:center;
-    background:white;
+    background:rgb(31, 31, 31);
     
 }
 
 nav a{
-    background-color:white;
+    background-color:rgb(31, 31, 31);
     font-size:20px;
     padding: 10px;
     margin:0px;
@@ -28,14 +28,14 @@ nav a{
 
 
 nav a:visited{
-    color:black;
+    color:rgb(255, 255, 255);
 }
 nav a:hover{
     color:lightgrey;
 
 }
 footer{
-    background-color:lightgray;
+    background-color:rgb(0, 0, 0);
     margin:0px;
     padding-top:10px;
     text-align:center;
@@ -54,8 +54,8 @@ h2{
 }
 
 .headerH1{
-    background-color:lightgray;
-    color:white;
+    background-color:rgb(0, 0, 0);
+    color:rgb(150, 150, 150);
     text-align:center;
     margin:0px;
     padding:100px;
@@ -66,7 +66,7 @@ h2{
 .aboutMe{
     margin:10px;
     text-align:center;
-    color:black;
+    color:rgb(255, 255, 255);
     font-size:20px;
 }
 
